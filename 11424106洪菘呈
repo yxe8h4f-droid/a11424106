@@ -5,3 +5,6 @@ E=RC*dV/dt​+V
 dV/dt​+1/RC​*V=E/RC
 
 ​
+$$
+\mu(t) = e^{\int \frac{1}{RC} dt} = e^{t/RC}
+$$
